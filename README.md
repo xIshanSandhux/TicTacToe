@@ -21,5 +21,3 @@ Created a Tic Tac Toe game application in android studio using Kotlin and XML.
    - There is a button present at the bottom of the screen which is used to reset the game.
    
 ![image](https://user-images.githubusercontent.com/129102973/229309897-b94aacd7-059f-4f39-bcb2-9c4a0829a94b.png) ![image](https://user-images.githubusercontent.com/129102973/229309929-fc85ac51-8d75-4510-b5e1-40274b558fd0.png) ![image](https://user-images.githubusercontent.com/129102973/229309965-77a45d5f-e3ef-4ac5-96d9-765fce6e11de.png)
-
-
